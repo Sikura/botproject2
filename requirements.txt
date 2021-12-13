@@ -8,7 +8,7 @@ flake8==3.5.0
 graphviz==0.8.1
 idna==2.6
 jedi==0.11.0
-lxml==4.1.1
+lxml==4.6.5
 matplotlib==2.1.0
 mccabe==0.6.1
 mglearn==0.1.6
